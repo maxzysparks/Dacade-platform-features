@@ -1,4 +1,4 @@
-The function helps us give rewards to people using a special kind of money called cUSD.
+The **function** helps us give rewards to people using a special kind of money called cUSD.
 
 First, we find out how much cUSD the person has. Then, we check if the person wants us to add their cUSD rewards to a special app called Wallet Connect, or if they want us to add the rewards to a different address.
 
